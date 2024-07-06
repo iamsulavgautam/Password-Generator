@@ -1,5 +1,5 @@
 [package]
-name = "password_generator"
+name = "password_generator-backend"
 version = "0.1.0"
 edition = "2021"
 
